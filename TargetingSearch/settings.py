@@ -130,7 +130,7 @@ STATIC_URL = '/static/'
 # facebook api initialization
 # Add to header of your file
 # use FacebookAds\Api
-
+STATIC_ROOT = '/static'
 # // Initialize a new Session and instantiate an API object
 # Api:: init(
 #     '1863496587233765', // App ID
